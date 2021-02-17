@@ -6,9 +6,18 @@
   "scripts": {
     "dev": "next dev"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelo7bastos/diarium.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelo7bastos/diarium/issues"
+  },
+  
+  "homepage": "https://github.com/marcelo7bastos/diarium#readme",
   "dependencies": {
     "next": "^10.0.7",
     "react": "^17.0.1",
